@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>ステージセレクト</h1>
+        <p>行きたいステージを選んでください。</p>
+        <ul>
+            <li><a href="https://plactice.neocities.org/Lecture01-3">ステージ1</a></li>
+            <li><a href="stage2.html">ステージ2</a></li>
+            <li><a href="stage3.html">ステージ3</a></li>
+        </ul>
+
+    </body>
+</html>
